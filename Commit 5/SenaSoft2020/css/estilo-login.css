@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0; 
+    background-color: #009ad8;
+	background-attachment: fixed;
+}
+
+/*línea 1*/
+#titulo2{
+	text-align: center;
+	margin-top: 130px;
+	margin-left: 480px;
+	display: inline-block;
+} 
+
+#img{
+	display: inline-block;
+	float: left;
+}
+
+/*Cuadro de ingreso*/
+form{
+	width: 550px;
+	background-color: #ffa532; 
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-radius: 10px;
+	margin-left: 500px;
+}
+
+
+/*cuadro usuario*/
+.input__text {
+	font-size: 18px;
+	width: 500px;
+	height: 40px;
+	padding: 10px;
+	border-radius: 26px;
+	border-color: black;
+}
+
+/*cuadro contraseña*/
+#password {
+	font-size: 18px;
+	width: 500px;
+	height: 40px;
+	padding: 10px;
+	border-radius: 26px;
+	border-color: black;
+}
+
+/*Botón de ingreso*/
+.btn__tipo1{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: black;
+	width: 150px;
+	height: 40px;
+	background: #97BF19;
+	font-size: 20px;
+	border-radius: 26px;
+}
