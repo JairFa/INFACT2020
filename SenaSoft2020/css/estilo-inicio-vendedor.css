@@ -1,0 +1,88 @@
+* {
+	padding: 0;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0; 
+    background-color: #009ad8;
+	background-attachment: fixed;
+}
+
+/*Título*/
+#titulo3{
+	text-align: center;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+#img{
+	display: inline-block;
+	float: left;
+}
+
+/*botón cerrar*/
+.block{
+	text-align: center;
+	padding-top: 5px;
+	background-color: #ffa532;
+	width: 200px;
+	height: 40px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+b {color: black;}
+
+/*position*/
+#cerrar{
+	display: inline-block;
+	margin-top: 100px;
+	float: right;
+	margin-right: 20px;
+}
+
+/*recuadro fondo*/
+form{
+	width: 550px;
+	background-color: #ffa532; 
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-radius: 10px;
+	margin-left: 500px;
+	margin-top: 150px;
+}
+
+/*color botón siguiente*/
+.btn{
+	color: black;
+	font-size: 20px;
+}
+
+/*boton siguiente*/
+.container{	
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 50px;
+	padding-top: 6px;
+	width: 200px;
+	height: 40px;
+	background-color: #97BF19;
+	border-radius: 26px;
+	text-align: center;
+	margin-left: 170px;
+
+}
+
+/*position botón*/
+#siguiente{
+	margin-bottom: 30px;
+
+}
+
+
+
+
+
+
