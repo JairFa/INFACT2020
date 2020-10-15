@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0; 
+    background-color: #009ad8;
+	background-attachment: fixed;
+}
+
+#titulo{
+	text-align: center;
+	margin-top: 80px;
+	margin-left: 240px;
+	display: inline-block;
+}
+
+#img{
+	display: inline-block;
+	float: left;
+}
+
+
+p{
+	display: inline-block;
+	float: right;
+	padding-top: 90px;
+	margin-right: 20px;
+}
+
+.btn-primary{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	font-size: 20px;
+	border-color: #ffa532;
+	padding-top: 5px;
+	color: #000000;
+	width: 200px;
+	height: 40px;
+	display: inline-block;
+    background: #ffa532; 
+	border-radius: 10px;
+	cursor: pointer;
+}
+#siigo{
+	margin-top: 30px;
+	margin-left: 350px;
+}
+#cisco{
+	margin-top: -204px;
+	margin-left: 770px;
+}
+#huawei{
+	margin-top: 5px;
+	margin-left: 350px;
+}
+#ibm{
+	margin-top: -204px;
+	margin-left: 560px;
+}
+#adobe{
+	margin-top: -204px;
+	margin-left: 770px;
+}
